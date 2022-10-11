@@ -1,3 +1,5 @@
+# ow.py
+# pmoe7
 # Importing all modules
 import cv2
 import numpy as np
@@ -8,17 +10,14 @@ import mss.tools
 from win32 import win32api
 import pyautogui
 import win32con
-
 import time
 
-
-def union(a,b):
-    x = min(a[0], b[0])
-    y = min(a[1], b[1])
-    w = max(a[0]+a[2], b[0]+b[2]) - x
-    h = max(a[1]+a[3], b[1]+b[3]) - y
-    return (x, y, w, h)
-
+# def union(a,b):
+#     x = min(a[0], b[0])
+#     y = min(a[1], b[1])
+#     w = max(a[0]+a[2], b[0]+b[2]) - x
+#     h = max(a[1]+a[3], b[1]+b[3]) - y
+#     return (x, y, w, h)
 
 # Calls the Windows API to simulate mouse movement events that are sent to OW
 def mouse_move(x, y):
@@ -101,7 +100,7 @@ with mss.mss() as sct:
             #cv2.drawContours(frame, ctr, -1, (0,0,0), 3)
             locate_target(ctr)
 
-        cv2.imshow("Detection", mask) # Displaying mask image
+        cv2.imshow("OW AimAssist 1.0", mask) # Displaying mask image
         #cv2.imshow("window", frame) # Displaying webcam image
 
         #print("fps: {}".format(1 / (time.time() - last_time)))
