@@ -9,4 +9,5 @@
 * Open the "ow.exe" file" 
 * That's it :)
 * To close it, click on the window and press "Q"
+* You can play the game either in Fullscreen or Borderless Windowed; it does not matter
 
