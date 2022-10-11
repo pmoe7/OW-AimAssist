@@ -8,4 +8,5 @@
 * Download the latest release from releases
 * Open the "ow.exe" file" 
 * That's it :)
+* To close it, click on the window and press "Q"
 
