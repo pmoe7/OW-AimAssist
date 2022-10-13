@@ -23,13 +23,13 @@ For example,
 
 'pip install opencv-python'
 
-* Install the following Python libraries/packages by using PIP
- * cv2
- * numpy
- * mss
- * win32api
- * pyautogui
- * win32con
+Install the following Python libraries/packages by using PIP
+* cv2
+* numpy
+* mss
+* win32api
+* pyautogui
+* win32con
 
 ## Buy me a coffee
 
