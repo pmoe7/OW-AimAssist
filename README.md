@@ -3,6 +3,10 @@
 
 ![image](https://user-images.githubusercontent.com/16229710/195044424-0bbd35b6-e1b1-4ec7-9ba9-9d9d0da377bb.png)
 
+## Buy me a coffee
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=TH2SR7262CULL&no_recurring=0&item_name=Thanks+%3A%29&currency_code=CAD)
+
 ## How to install
 
 * Download the latest release from releases
@@ -34,8 +38,4 @@ Install the following Python libraries/packages by using PIP
 * win32api
 * pyautogui
 * win32con
-
-## Buy me a coffee
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=TH2SR7262CULL&no_recurring=0&item_name=Thanks+%3A%29&currency_code=CAD)
 
