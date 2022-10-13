@@ -11,13 +11,17 @@
 * To close it, click on the window and press "Q"
 * You can play the game either in Fullscreen or Borderless Windowed; it does not matter
 
-## Compiling the Source Code
+## Editing the Source Code
 
 1. You will need to download and install Python
+2. Install the required packages listed below
+3. Open the "ow.py" in any text editor and make the changes you want.
 
-2. Then open a CMD terminal and type:
+### How to use PIP to install Python packages
 
-  'pip install [library name]'
+Open a CMD terminal and type the commands like below for each of the package.
+
+'pip install [library name]'
 
 For example,
 
