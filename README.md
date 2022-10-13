@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/16229710/195044424-0bbd35b6-e1b1-4ec7-9ba9-9d9d0da377bb.png)
 
-# How to install
+## How to install
 
 * Download the latest release from releases
 * Open the "ow.exe" file" 
