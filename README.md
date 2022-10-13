@@ -7,7 +7,7 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=TH2SR7262CULL&no_recurring=0&item_name=Thanks+%3A%29&currency_code=CAD)
 
-## How to install
+## How to Run It
 
 * Download the latest release from releases
 * Open the "ow.exe" file" 
