@@ -11,3 +11,5 @@
 * To close it, click on the window and press "Q"
 * You can play the game either in Fullscreen or Borderless Windowed; it does not matter
 
+## Buy me a coffee
+https://www.paypal.com/donate/?business=TH2SR7262CULL&no_recurring=0&item_name=Thanks+%3A%29&currency_code=CAD
