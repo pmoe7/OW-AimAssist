@@ -12,4 +12,5 @@
 * You can play the game either in Fullscreen or Borderless Windowed; it does not matter
 
 ## Buy me a coffee
-https://www.paypal.com/donate/?business=TH2SR7262CULL&no_recurring=0&item_name=Thanks+%3A%29&currency_code=CAD
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)]([https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=59LH5AHNQ8XZW](https://www.paypal.com/donate/?business=TH2SR7262CULL&no_recurring=0&item_name=Thanks+%3A%29&currency_code=CAD))
