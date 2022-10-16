@@ -5,7 +5,7 @@
 
 ## Buy me a coffee
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=TH2SR7262CULL&no_recurring=0&item_name=Thanks+%3A%29&currency_code=CAD)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=3EUM5MUBGQ42N&no_recurring=0&currency_code=CAD)
 
 ## How to Run It
 
